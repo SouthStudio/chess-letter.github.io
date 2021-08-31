@@ -5,6 +5,10 @@
 		},
 		{
 			"path": "../../Downloads/indexv5 6/img"
+		},
+		{
+			"name": "chess",
+			"path": "."
 		}
 	],
 	"settings": {
